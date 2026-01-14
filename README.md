@@ -177,13 +177,6 @@ dependencies:
   path_provider: ^2.1.0
 ```
 
-## Screenshots Description
-
-1. **Login Screen**: Clean authentication with gradient background
-2. **Dashboard**: Cards showing current stats and power chart
-3. **Panel Control**: Sliders for angle adjustment with compass visualization
-4. **Maintenance**: List of upcoming/completed tasks with priorities
-5. **Profile**: User information and system settings
 
 ## Future Enhancements
 
@@ -197,36 +190,3 @@ dependencies:
 - Push notifications
 - Historical data export
 - Dark mode support
-
-## Testing
-
-Run tests:
-```bash
-flutter test
-```
-
-## Build for Production
-
-**Android:**
-```bash
-flutter build apk --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-## License
-
-This is a demonstration project. Modify and use as needed.
-
-## Support
-
-For questions or issues:
-- Check Flutter documentation: https://flutter.dev/docs
-- Provider documentation: https://pub.dev/packages/provider
-
----
-
-**Created with Flutter 💙**
